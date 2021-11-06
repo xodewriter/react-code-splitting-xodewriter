@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Lazy/static/css/main.ccba64d2.chunk.css",
+    "main.js": "/React-Lazy/static/js/main.5badf49d.chunk.js",
+    "main.js.map": "/React-Lazy/static/js/main.5badf49d.chunk.js.map",
+    "runtime-main.js": "/React-Lazy/static/js/runtime-main.a765a184.js",
+    "runtime-main.js.map": "/React-Lazy/static/js/runtime-main.a765a184.js.map",
+    "static/js/2.08bed1fe.chunk.js": "/React-Lazy/static/js/2.08bed1fe.chunk.js",
+    "static/js/2.08bed1fe.chunk.js.map": "/React-Lazy/static/js/2.08bed1fe.chunk.js.map",
+    "index.html": "/React-Lazy/index.html",
+    "static/css/main.ccba64d2.chunk.css.map": "/React-Lazy/static/css/main.ccba64d2.chunk.css.map",
+    "static/js/2.08bed1fe.chunk.js.LICENSE.txt": "/React-Lazy/static/js/2.08bed1fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a765a184.js",
+    "static/js/2.08bed1fe.chunk.js",
+    "static/css/main.ccba64d2.chunk.css",
+    "static/js/main.5badf49d.chunk.js"
+  ]
+}
